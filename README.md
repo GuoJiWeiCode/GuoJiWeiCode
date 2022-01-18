@@ -17,7 +17,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/GuoJiWeiCode/count.svg) vi
 - ⚡ Fun fact: **LOL, Movie** -->
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoJiWeiCode)](https://github.com/GuoJiWeiCode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuoJiWeiCode&count_private=true&show_icons=true)](https://github.com/GuoJiWeiCode/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuoJiWeiCode&show_icons=true&theme=tokyonight)
 
